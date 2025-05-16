@@ -20,7 +20,7 @@ export const Overview = ({ contactmodal, setContactModal }) => {
               Assetz Codename Altitude – Luxury 3 BHK Apartments on Kanakapura Road.
             </p>
             <p className="mt-2">
-              An 5-acre township with 87 % open space
+              A 5-acre township with 87 % open space
             </p>
 
             <ul className="mt-4 text-left list-disc list-inside space-y-1">
