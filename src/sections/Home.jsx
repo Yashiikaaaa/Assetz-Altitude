@@ -3,9 +3,9 @@ import Button from "../components/button/buttonMain";
 import homeLocation from "../assets/home/location.svg";
 
 // Array of banner images
-import banner1 from "../assets/home/4.jpg";
+import banner1 from "../assets/home/5.jpg";
 import banner2 from "../assets/home/2.jpg";
-import banner4 from "../assets/home/homebannertwo.png";
+import banner4 from "../assets/home/1.jpg";
 import banner3 from "../assets/gallery/1.webp";
 
 const banners = [banner1, banner2,banner4];

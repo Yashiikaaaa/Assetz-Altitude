@@ -1,5 +1,5 @@
 import React from 'react';
-import image from '../assets/gallery/micro.jpg';
+import image from '../assets/home/3.jpg';
 import Button from '../components/button/buttonMain';
 
 export const Overview = ({ contactmodal, setContactModal }) => {
@@ -47,7 +47,7 @@ export const Overview = ({ contactmodal, setContactModal }) => {
           <img
             src={image}
             alt="Assetz Altitude"
-            className="w-[420px] h-auto rounded-lg shadow-lg object-cover"
+            className="w-[400px] h-[350px] rounded-lg shadow-lg object-cover"
           />
         </div>
       </section>
